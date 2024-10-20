@@ -68,7 +68,7 @@ SENDGRID_API_KEY= # SendGrid API key you get when setting up
 NOTE: your MAILFROM must be an email approved in your Amazon settings.
 
 ## Example
-check the [epub](examples/DIGEST-2024-10-19.epub) file or the [hml](examples/DIGEST-2024-10-19.epub.html) file
+Check the generated [epub](examples/DIGEST-2024-10-19.epub) or the [html](examples/DIGEST-2024-10-19.epub.html) file.
 
 ## License
 
