@@ -17,7 +17,7 @@
   "dependencies": {
     "@aws-sdk/client-ses": "^3.665.0",
     "@mozilla/readability": "^0.5.0",
-    "@sendgrid/mail": "^6.2.1",
+    "@sendgrid/mail": "^8.0.0",
     "epub-gen": "^0.1.0",
     "jsdom": "^11.10.0"
   },
